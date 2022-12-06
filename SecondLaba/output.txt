@@ -1,0 +1,9 @@
+#Life v1.06
+MyUniverse
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . * 
+. . . * . * 
+. . . . * * 
+Field after 3 iterations
